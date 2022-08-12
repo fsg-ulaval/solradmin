@@ -1,5 +1,6 @@
 {
   "name": "apen/solradmin",
+  "type": "typo3-cms-extension",
   "description": "TYPO3 extension to manage Apache Solr cores",
   "license": "GPL-2.0-or-later",
   "require": {
